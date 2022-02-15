@@ -1,4 +1,5 @@
 //삽입정렬
+//O(N^2)
 
 #include <iostream>
 using namespace std;
