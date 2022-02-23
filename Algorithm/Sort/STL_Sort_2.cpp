@@ -17,7 +17,7 @@ bool compare(pair<string, pair<int, int>> a, pair<string, pair<int, int>> b){
 }
 
 int main(){
-    //ÀÌÁß pair (º¯¼ö 3°³)
+    //ì´ì¤‘ pair (ë³€ìˆ˜ 3ê°œ)
     vector <pair<string, pair<int, int>>> v;
 
     v.push_back(pair<string, pair<int, int>>("Joe", pair<int, int>(90, 19981214)));
