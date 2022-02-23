@@ -1,5 +1,6 @@
-//Èü Á¤·Ä
+//ÃˆÃ¼ ÃÂ¤Â·Ã„
 //O(N*logN)
+//git test
   
 #include <iostream>
 using namespace std;
