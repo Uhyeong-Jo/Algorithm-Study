@@ -1,5 +1,5 @@
 //sort() [STL sort / <algorithm> library]
-//╣╔юлем╦╕ ╧╜╬Н╪╜ а╓╥д
+//К█╟Л²╢М└╟К╔╪ К╛╤Л√╢Л└° Л═∙К═╛
 //O(N*logN)
 
 #include <iostream>
